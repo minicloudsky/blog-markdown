@@ -92,29 +92,29 @@ run命令是指用来执行命令行命令的，有两种格式：
    ```
 FROM debian:stretchRUNbuildDeps='gcc libc6-dev make wget' \    
    
-&& apt-get update \    
-   
-&& apt-get install -y $buildDeps \    
-   
-&& wget -O redis.tar.gz "http://download.redis.io/releases/redis-5.0.3.tar.gz" \    
-   
-&& mkdir -p /usr/src/redis \    
-   
-&& tar -xzf redis.tar.gz -C /usr/src/redis --strip-components=1 \    
-   
-&& make -C /usr/src/redis \    
-   
-&& make -C /usr/src/redis install \    
-   
-&& rm -rf /var/lib/apt/lists/* \    
-   
-&& rm redis.tar.gz \    && rm -r /usr/src/redis \    
-   
-&& apt-get purge -y --auto-remove $buildDeps  
    ```
 
-   写dockerfile时候，要注意不是写shell脚本，而是在定义每一层该如何构建。
+&& apt-get update \    
 
+&& apt-get install -y $buildDeps \    
+
+&& wget -O redis.tar.gz "http://download.redis.io/releases/redis-5.0.3.tar.gz" \    
+
+&& mkdir -p /usr/src/redis \    
+
+&& tar -xzf redis.tar.gz -C /usr/src/redis --strip-components=1 \    
+
+&& make -C /usr/src/redis \    
+
+&& make -C /usr/src/redis install \    
+
+&& rm -rf /var/lib/apt/lists/* \    
+
+&& rm redis.tar.gz \    && rm -r /usr/src/redis \    
+
+&& apt-get purge -y --auto-remove $buildDeps  
+   ```bash
+    写dockerfile时候，要注意不是写shell脚本，而是在定义每一层该如何构建。
    dockerfile支持shell的行尾换行方式，以及行首# 进行注释 ，后添加了清理工作的命令，删除了为了编译构建所需要的软件，清理了所有下载、展开的文件，并且还清理了apt缓存文件。这是很重要的一步，我们之前说过，镜像是多层存储，每一层的东西并不会在下一层被删除，会一直跟随着镜像。因此镜像构建时，一定要确保每一层只添加真正需要添加的东西，任何无关的东西都应该清理掉。
 
    ### 镜像构建
@@ -185,14 +185,15 @@ FROM debian:stretchRUNbuildDeps='gcc libc6-dev make wget' \
    ADD --chown=55:mygroup files* /mydir/
    ADD --chown=bin files* /mydir/
    ADD --chown=1 files* /mydir/
-ADD --chown=10:11 files* /mydir/
+   ADD --chown=10:11 files* /mydir/
    ```
 
    ### CMD 容器启动命令
 
    `CMD` 指令的格式和 `RUN` 相似，也是两种格式：
-   
+
    - `shell` 格式：`CMD <命令>`
+
 - `exec` 格式：`CMD ["可执行文件", "参数1", "参数2"...]`
    - 参数列表格式：`CMD ["参数1", "参数2"...]`。在指定了 `ENTRYPOINT` 指令后，用 `CMD` 指定具体的参数。
 
