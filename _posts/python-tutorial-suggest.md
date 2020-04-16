@@ -10,7 +10,7 @@ categories:
 Python是一门面向对象的解释型语言，基本上其他语言能够做的，python由于拥有强大的类库自带轮子，因此都可以做，因此你可以用python开发各种你想要的程序，包括桌面程序，爬虫 ，web开发，科学计算，机器学习，人脸识别等功能。
 <!-- more -->
 首先我们来看一张图片即可快速入门python:
-![](python-tutorial-suggest\py.jpg)
+![](python-tutorial-suggest/py.jpg)
 对于以下所涉及到的所有python类库，如果电脑配置好了python环境后，都可以打开cmd使用:
 pip install xxxx
 这样的命令安装对应的类库
