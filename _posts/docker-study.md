@@ -366,7 +366,30 @@ alias ll='ls $LS_OPTIONS -l'
 source ~/.bashrc
 ```
 
+### postgresql
 
+```bash
+docker run -p 80:80 \
+    -e 'PGADMIN_DEFAULT_EMAIL=1397991131@qq.com' \
+    -e 'PGADMIN_DEFAULT_PASSWORD=pgadmin' \
+    -e 'PGADMIN_CONFIG_ENHANCED_COOKIE_PROTECTION=True' \
+    -e 'PGADMIN_CONFIG_LOGIN_BANNER="Authorised users only!"' \
+    -e 'PGADMIN_CONFIG_CONSOLE_LOG_LEVEL=10' \
+    -d dpage/pgadmin4
+```
+
+```bash
+ docker run --rm   --name pg-docker -e POSTGRES_PASSWORD=root -d -p 5432:5432 -v /home/containermaps/postgres/:/var/lib/postgresql/data  postgres
+```
+
+### orcale
+
+```bash
+docker pull alexeiled/docker-oracle-xe-11g
+docker run -h "oracle" --name "oracle" -d -p 49160:22 -p 49161:1521 -p 49162:8080 alexeiled/docker-oracle-xe-11g
+```
+
+create user orcale identified by orcale;
 
 
 
