@@ -1,15 +1,13 @@
 
 ---
 title: 个人oss书籍和文件同步到这里
-date: 2020-03-10 14:04:42.806064
+date: 2020-05-28 14:37:31.135446
 categories:
 tags:
 ---
-[2019中国经济形势全景图简报.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/2019%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF%E5%85%A8%E6%99%AF%E5%9B%BE%E7%AE%80%E6%8A%A5.pdf)
 [624224【Go程序设计语言】（详细书签、清晰完整版）.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/624224%E3%80%90Go%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E3%80%91%EF%BC%88%E8%AF%A6%E7%BB%86%E4%B9%A6%E7%AD%BE%E3%80%81%E6%B8%85%E6%99%B0%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89.pdf)
 [AngularJS权威教程.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Angular/AngularJS%E6%9D%83%E5%A8%81%E6%95%99%E7%A8%8B.pdf)
 [C Primer Plus 第6版 中文版 ,STEPHEN PRATA著；姜佑译 ,P730 sample.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/C%20Primer%20Plus%20%E7%AC%AC6%E7%89%88%20%E4%B8%AD%E6%96%87%E7%89%88%20%2CSTEPHEN%20PRATA%E8%91%97%EF%BC%9B%E5%A7%9C%E4%BD%91%E8%AF%91%20%2CP730%20sample.pdf)
-[CPrimerPlus（第五版）中文版.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/CPrimerPlus%EF%BC%88%E7%AC%AC%E4%BA%94%E7%89%88%EF%BC%89%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 [Clean Code-代码整洁之道.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Clean%20Code-%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.pdf)
 [Computer Networking A Top-Down Approach (7th Edition).pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Computer%20Networking%20A%20Top-Down%20Approach%20%287th%20Edition%29.pdf)
 [C专家编程 清晰 （有书签索引）.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/C%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B%20%E6%B8%85%E6%99%B0%20%EF%BC%88%E6%9C%89%E4%B9%A6%E7%AD%BE%E7%B4%A2%E5%BC%95%EF%BC%89.pdf)
@@ -37,17 +35,10 @@ tags:
 [NodeJS开发指南.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Node/NodeJS%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf)
 [《Node.js 来一打C++扩展》_死月2018年7月9日.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Node/%E3%80%8ANode.js%20%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B_%E6%AD%BB%E6%9C%882018%E5%B9%B47%E6%9C%889%E6%97%A5.pdf)
 [深入浅出Node.js.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Node/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
-[PHP_面向对象教程(强力推荐).pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/PHP_%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%95%99%E7%A8%8B%28%E5%BC%BA%E5%8A%9B%E6%8E%A8%E8%8D%90%29.pdf)
-[PHP基础教程.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/PHP%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf)
-[PHP开发人员手册.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/PHP%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E6%89%8B%E5%86%8C.pdf)
-[PHP程序设计简明教程.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/PHP%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.pdf)
-[PHP项目开发实战密码.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/PHP%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E5%AF%86%E7%A0%81.pdf)
-[PHP高级程序设计_模式、框架与测试.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/PHP%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1_%E6%A8%A1%E5%BC%8F%E3%80%81%E6%A1%86%E6%9E%B6%E4%B8%8E%E6%B5%8B%E8%AF%95.pdf)
 [Data Structures and Algorithms in Python.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Python_Book/Data%20Structures%20and%20Algorithms%20in%20Python.pdf)
 [Django Web开发指南.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Python_Book/Django%20Web%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf)
 [Django_Book-中文版.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Python_Book/Django_Book-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 [Flask Web Development.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Python_Book/Flask%20Web%20Development.pdf)
-[Flask Web开发实战：入门、进阶与原理解析 - 李辉.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Python_Book/Flask%20Web%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%EF%BC%9A%E5%85%A5%E9%97%A8%E3%80%81%E8%BF%9B%E9%98%B6%E4%B8%8E%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%20-%20%E6%9D%8E%E8%BE%89.pdf)
 [FlaskWeb开发：基于Python的Web应用开发实战.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Python_Book/FlaskWeb%E5%BC%80%E5%8F%91%EF%BC%9A%E5%9F%BA%E4%BA%8EPython%E7%9A%84Web%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98.pdf)
 [Numpy 中文用户指南.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Python_Book/Numpy%20%E4%B8%AD%E6%96%87%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97.pdf)
 [PYTHON网络编程基础.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Python_Book/PYTHON%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80.pdf)
@@ -98,8 +89,6 @@ tags:
 [TensorFlow实战_黄文坚（完整）.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/TensorFlow%E5%AE%9E%E6%88%98_%E9%BB%84%E6%96%87%E5%9D%9A%EF%BC%88%E5%AE%8C%E6%95%B4%EF%BC%89.pdf)
 [Tensorflow 实战Google深度学习框架.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/Tensorflow%20%E5%AE%9E%E6%88%98Google%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6.pdf)
 [The C Programming Language 中文版(第2版.新版).pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/The%20C%20Programming%20Language%20%E4%B8%AD%E6%96%87%E7%89%88%28%E7%AC%AC2%E7%89%88.%E6%96%B0%E7%89%88%29.pdf)
-[The C Programming Language中文版（绝对高清）.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/The%20C%20Programming%20Language%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E7%BB%9D%E5%AF%B9%E9%AB%98%E6%B8%85%EF%BC%89.pdf)
-[The+C+Programming+Language+中文版.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/The%2BC%2BProgramming%2BLanguage%2B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 [[30天自制操作系统].(川合秀实).周自恒等.扫描版.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%5B30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%5D.%28%E5%B7%9D%E5%90%88%E7%A7%80%E5%AE%9E%29.%E5%91%A8%E8%87%AA%E6%81%92%E7%AD%89.%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
 [[www.java1234.com]redis设计与实现(第二版).pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%5Bwww.java1234.com%5Dredis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%28%E7%AC%AC%E4%BA%8C%E7%89%88%29.pdf)
 [[www.java1234.com]深入分析Java  Web技术内幕  修订版.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%5Bwww.java1234.com%5D%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Java%20%20Web%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%20%20%E4%BF%AE%E8%AE%A2%E7%89%88.pdf)
@@ -138,6 +127,7 @@ tags:
 [高性能MySQL_第3版（中文）.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/databases/%E9%AB%98%E6%80%A7%E8%83%BDMySQL_%E7%AC%AC3%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%EF%BC%89.pdf)
 [Docker实战.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/devops/Docker%E5%AE%9E%E6%88%98%40www.java1234.com.pdf)
 [Git教程.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/devops/Git%E6%95%99%E7%A8%8B.pdf)
+[Kubernetes权威指南（纪念版）.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/devops/Kubernetes%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%BA%AA%E5%BF%B5%E7%89%88%EF%BC%89.pdf)
 [Ubuntu命令手册.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/devops/Ubuntu%E5%91%BD%E4%BB%A4%E6%89%8B%E5%86%8C.pdf)
 [Ubuntu常用命令大全.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/devops/Ubuntu%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.pdf)
 [[www.java1234.com]深入理解Nginx模块开发与架构解析第2版LinuxUnix技术丛书-4.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/devops/%5Bwww.java1234.com%5D%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90%E7%AC%AC2%E7%89%88LinuxUnix%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6-4.pdf)
@@ -147,6 +137,9 @@ tags:
 [深入理解Nginx模块开发与架构解析第2版LinuxUnix技术丛书-4.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/devops/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90%E7%AC%AC2%E7%89%88LinuxUnix%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6-4.pdf)
 [鸟哥的Linux私房菜-基础学习篇[第四版][解密版].pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/devops/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C-%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87%5B%E7%AC%AC%E5%9B%9B%E7%89%88%5D%5B%E8%A7%A3%E5%AF%86%E7%89%88%5D.pdf)
 [鸟哥的Linux私房菜基础篇第三版.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/devops/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E5%9F%BA%E7%A1%80%E7%AF%87%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
+[Java并发编程实战（中文版）.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/java/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
+[Java虚拟机（第二版）.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/java/Java%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
+[Spring+in+action+中文版（第4版）.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/java/Spring%2Bin%2Baction%2B%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89%40www.java1234.com.pdf)
 [java基础教程(强烈推荐).pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/java%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%28%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%29.pdf)
 [JavaScript函数式编程指南.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/js/JavaScript%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
 [JavaScript设计模式与开发实践.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/js/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf)
@@ -174,7 +167,6 @@ tags:
 [分布式消息中间件实践 .pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E5%88%86%E5%B8%83%E5%BC%8F%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AE%9E%E8%B7%B5%20.pdf)
 [剑指offer—java实现—pdf.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E5%89%91%E6%8C%87offer%E2%80%94java%E5%AE%9E%E7%8E%B0%E2%80%94pdf.pdf)
 [动⼿学深度学习.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E5%8A%A8%E2%BC%BF%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
-[叶卓 -活动策划执行-15757119826.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E5%8F%B6%E5%8D%93%20-%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%89%A7%E8%A1%8C-15757119826.pdf)
 [国富论中文版.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E5%9B%BD%E5%AF%8C%E8%AE%BA%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 [图解HTTP.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E5%9B%BE%E8%A7%A3HTTP.pdf)
 [图解TCPIP协议.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E5%9B%BE%E8%A7%A3TCPIP%E5%8D%8F%E8%AE%AE.pdf)
@@ -189,8 +181,6 @@ tags:
 [微积分之屠龙宝刀（美）C.亚当斯等.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%8B%E5%B1%A0%E9%BE%99%E5%AE%9D%E5%88%80%EF%BC%88%E7%BE%8E%EF%BC%89C.%E4%BA%9A%E5%BD%93%E6%96%AF%E7%AD%89.pdf)
 [微积分（英文第六版-James+Stewart）.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E8%8B%B1%E6%96%87%E7%AC%AC%E5%85%AD%E7%89%88-James%2BStewart%EF%BC%89.pdf)
 [恋练有词串讲U1-U30讲义.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E6%81%8B%E7%BB%83%E6%9C%89%E8%AF%8D%E4%B8%B2%E8%AE%B2U1-U30%E8%AE%B2%E4%B9%89.pdf)
-[打印个人缴费清单.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E6%89%93%E5%8D%B0%E4%B8%AA%E4%BA%BA%E7%BC%B4%E8%B4%B9%E6%B8%85%E5%8D%95.pdf)
-[打印社保参保证明.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E6%89%93%E5%8D%B0%E7%A4%BE%E4%BF%9D%E5%8F%82%E4%BF%9D%E8%AF%81%E6%98%8E.pdf)
 [推荐系统实践.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5.pdf)
 [数据结构与算法.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.pdf)
 [数据结构与算法分析—c语言描述第二版中文版.pdf](https://plus-books.oss-cn-shenzhen.aliyuncs.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E2%80%94c%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E7%AC%AC%E4%BA%8C%E7%89%88%E4%B8%AD%E6%96%87%E7%89%88.pdf)

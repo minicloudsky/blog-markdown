@@ -23,19 +23,19 @@ github以前用来搭建过博客，但是不会用git仓库，最近抽时间�
 [Git 教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)这里有廖雪峰老师的教程，非常好。
 初次使用安装
 linux 
-sudo apt-get install git
+`sudo apt-get install git`
 windows下直接出了点默认
 <!-- more -->
 + ### 配置账号
 
  你的用户名
-git config --global user.name   "yawuplus"
+`git config --global user.name   "yawuplus"`
 你的邮箱名
-git config --global user.email    "1397991131@qq.com"
+`git config --global user.email    "1397991131@qq.com"`
 
 生成ssh keys
 
-ssh-keygen -t rsa -C     "1397991131@qq.com"
+`ssh-keygen -t rsa -C     "1397991131@qq.com"`
 
 一路 Enter 过来就好，得到信息：
 
@@ -45,7 +45,7 @@ Your public key has been saved in /c/Users/user/.ssh/id_rsa.pub.
 New SSH key ——ssh(这个ssh为你的ssh keys的名字，你可以根据自己需要起名字)：
 git —— Key：输入刚才复制的—— Add SSH key
 在git bash 输入
-ssh -T git@github.com
+`ssh -T git@github.com`
 
 如果输出下面的(yawuplus是我的用户名，你配置时候这里应该显示的是你的用户名)
 
