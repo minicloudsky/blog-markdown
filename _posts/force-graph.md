@@ -11,7 +11,7 @@ tags:
 
 ### [力导向图](https://github.com/vasturiano/force-graph)
 
-### 基础使用
+<!-- more -->
 
 1. 基础容器
 
@@ -118,8 +118,6 @@ tags:
            };
    ```
 
-   
-
 3. 创建 基础的力导向图
 
    ```javascript
@@ -138,7 +136,7 @@ tags:
 
    ![](2.png)
 
-5. 节点标签
+5. 显示节点标签
 
    ```JavaScript
    const Graph = ForceGraph()(document.getElementById('graph'))
@@ -148,7 +146,13 @@ tags:
 
    ![](4.png)
 
-6. 自动填充节点颜色
+6. 显示节点间关系标签
+
+   ```
+   .linkLabel([str or fn]) //显示关系标签
+   ```
+
+7. 自动填充节点颜色
 
    （为了节省篇幅，以下省略 const Graph = ForceGraph()(document.getElementById('graph')) 部分代码，直接以属性方式添加）
 
@@ -158,7 +162,7 @@ tags:
 
    ![](3.png)
 
-7. 节点之间添加粒子滚动特效的粒子的颗粒直径（滚动粒子的节点直径）
+8. 节点之间添加粒子滚动特效的粒子的颗粒直径（滚动粒子的节点直径）
 
    ```JavaScript
    .linkDirectionalParticleWidth(140) // 数字越大直径越大
@@ -166,7 +170,7 @@ tags:
 
    ![](5.png)
 
-8. 弯曲节点之间的线条 .linkCurvature()
+9. 弯曲节点之间的线条 .linkCurvature()
 
    ```
       const gData = {
@@ -196,7 +200,7 @@ tags:
 
    ![](6.png)
 
-9. 节点之间连线添加方向箭头  ->
+10. 节点之间连线添加方向箭头  ->
 
    ```JavaScript
    .linkDirectionalArrowLength(6) 数字越大箭头越大
