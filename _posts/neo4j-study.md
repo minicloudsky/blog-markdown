@@ -1,9 +1,12 @@
-title: neo4j学习笔记
-date: 2020-06-26 00:35:12
-categories: 大数据
+---
+title: neo4j 图数据库学习
+date: 2020-07-01 12:59:55
+categories: 图数据库 大数据
 tags:
-
+- 图数据库
 - 大数据
+
+---
 
 ##### neo4j 图数据库学习
 
